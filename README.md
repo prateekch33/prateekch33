@@ -13,7 +13,7 @@ Here are some ideas to get you started: -->
 - 💪 Achievements: **Digital Technology Intern, GE Digital, Ex-GDSC Lead, IIIT Bhagalpur**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekch33&show_icons=true&locale=en&layout=compact" alt="prateekch33" />
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekch33&show_icons=true&locale=en&layout=compact" alt="prateekch33" />
 
-&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=prateekch33&show_icons=true&locale=en" alt="prateekch33" /></p>
+&nbsp;<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=prateekch33&show_icons=true&locale=en" alt="prateekch33" /></p> -->
 
