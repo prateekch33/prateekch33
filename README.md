@@ -6,8 +6,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🌱 I’m currently an undergrad at IIIT Bhagalpur
-- 👯 I’m looking to collaborate on different projects on Web Development
+- 🌱 I work as a **Software Engineering Specialist** at **GE Vernova**.
 - 💬 Ask me about **Web Development | C++ | C | Java**
 - 📫 How to reach me: **Email:** ***prateekchandra27@outlook.com***   **Contact No.:** ***+91-9431796788***
 - 💪 Achievements: **Digital Technology Intern, GE Digital, Ex-GDSC Lead, IIIT Bhagalpur**
